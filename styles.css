@@ -30,6 +30,7 @@ input[type="checkbox"]::before {
   border-radius: 50%;
   background: #bc6c25;
 }
+
 input[type="checkbox"]:checked {
   background: #dda15e;
   transform: rotate(90deg);
